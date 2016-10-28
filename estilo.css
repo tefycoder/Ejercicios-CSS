@@ -6,8 +6,7 @@
 body
 {
 	font-family: 'Dosis', sans-serif;
-	background:url(imgagenes/ojos.jpg) no-repeat fixed center center;
-	-webkit-background-size: cover;
+	background: url(imgagenes/ojos.jpg) no-repeat fixed center center;
 	background-size: cover;
 	font-size: 17px;
 	text-align: center;
@@ -75,85 +74,56 @@ header h2
 
 aside
 {
-	width:100%;
-	height:100%;
-	list-style:none;
-	text-align:center;
+   
 }
 
 aside .wrapper h3
 {
-	font-size: 18px;
-	position: absolute;
-	transform: rotate(90deg);
-	right: 0;
-	width: 130px;
-	overflow: visible;
-	margin: 50px -50px 0 0;
+	
 }
 
 aside .wrapper>div
 {
-	height:28px;
-	padding:5px;
-	font-family:Helvetica;
-	font-size:20px;
-	color:#FFF;
-	text-decoration:none;
-	font-weight:bold;
-	display:block
+	
 }
 aside .wrapper>div:hover
 {
-	transform: translateX(0);
+	
 }
 
 aside ul
 {
-	margin:0 20px 0 0;
-	padding: 0;
-	list-style: none;
+	
 }
 aside ul li
 {
-	padding: 5px 5px;
-	border-radius: 5px;
-	transition: all .4s;
+	
 }
 aside ul li:hover
 {
-	background: rgba(0,0,0,0.9);
-	color: #FFF;
-	transform: scale(1.1);
+	
 }
  a
 {
-	color: #45CCCC;
-	text-decoration: none;
+	
 }
 a:hover
 {
-	color:#88EEEE;
+	
 }
 
 
 .main
 {
-	border-top:1px dashed #FFF;
-	margin-top: 40px;
-	padding-top: 30px;
+	
 }
 
 .preamble
 {
-	background: rgba(255,255,255,0.6);
-	border-radius: 8px;
-	padding: 15px 15px 5px 15px;
-	color: #333;
-	box-shadow: 0 5px 40px rgba(0,0,0,0.4);
+	
 }
 .preamble h3
 {
-	color: #45CCCC;
+	color: #CIFADE
 }
 
